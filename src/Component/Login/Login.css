@@ -1,0 +1,24 @@
+.Login{
+    width:400px;
+    background-color: rgb(223,223,223);
+    padding:20px 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+.Login img{
+    width:100px;
+}
+.Login h2{
+    margin:15px 0px;
+}
+.Login button{
+    padding:8px 18px;
+    border-radius: 5px;
+    border:none;
+    background-color: #3fc350;
+    color:#ffffffda;
+    margin-top:10px;
+
+    text-transform: uppercase;
+
+}
