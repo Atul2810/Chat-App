@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react'
+import React, { useEffect} from 'react'
 import './App.css'
 import SideBar from './Component/Sidebar/Sidebar'
 import Chat from './Component/Chat/Chat'
